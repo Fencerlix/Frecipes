@@ -1,6 +1,6 @@
 # 📱 Frecipes – Deine persönliche Rezept-App  
 
-Frecipes ist eine Android-App, mit der du deine eigenen Rezepte speichern und verwalten kannst. Die App ist mit **Jetpack Compose** entwickelt und nutzt **Room** für die Speicherung der Rezepte.  
+Frecipes ist eine Android-App, mit der du deine eigenen Rezepte speichern und verwalten kannst. Die App ist in erster Linie für mich als Lernprojekt gedacht, um Programmiererfahrung zu sammeln; es freut mich allerdings, wenn sie früher oder später tatsächlich genutzt werden kann und Menschen hilft, ihre Rezepte zu verwalten und schnell herauszufinden, was auf den Tisch kommen soll. ;)
 
 ---
 
