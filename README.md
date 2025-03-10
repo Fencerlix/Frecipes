@@ -49,7 +49,7 @@ Falls du Android Studio nutzt:
 
 ---
 
-## 🏗️ Entwicklung & Mitwirken
+## 🏗️ Entwicklung & Mitwirken (Contributing)
 ### 🔹 Projekt einrichten
 
 Falls du das Projekt klonen möchtest:
